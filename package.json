@@ -1,0 +1,22 @@
+{
+  "name": "stripe-pricing-table",
+  "version": "1.0.0",
+  "description": "testing a stripe pricing table",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anag03/stripe-pricing-table.git"
+  },
+  "author": "Ana G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anag03/stripe-pricing-table/issues"
+  },
+  "homepage": "https://github.com/Anag03/stripe-pricing-table#readme",
+  "dependencies": {
+    "cypress": "^13.4.0"
+  }
+}
